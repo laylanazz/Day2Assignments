@@ -10,5 +10,7 @@ def main():
     x**=3
     print(f"Power : {x}")
 
+    return 0
+
 if __name__ == "__main__":
     sys.exit(main())

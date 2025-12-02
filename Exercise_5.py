@@ -9,5 +9,7 @@ def main():
     print(f"The integer quotient is {a//b}")
     print(f"The remainder is {a % b}")
 
+    return 0
+
 if __name__ == "__main__":
     sys.exit(main())
